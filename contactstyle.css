@@ -1,0 +1,31 @@
+body
+{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position-x:center;
+}
+h1
+{
+    font-weight: bolder;
+}
+#con
+{
+    border-radius: 25px;
+    border:0.1rem solid white;
+    border-style:inset;
+    height: 400px;
+    background: transparent;
+    backdrop-filter: blur(20pt);
+}
+.card
+{
+    border: none;
+    background: transparent;
+}
+a
+{
+    color: white;
+    text-decoration: none;
+}
